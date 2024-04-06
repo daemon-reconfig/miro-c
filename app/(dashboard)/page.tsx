@@ -6,9 +6,7 @@ export default function Dashboard() {
       <div>
         TEsting Phahse
       </div>
-      <div>
-        <UserButton />
-      </div>
+      
     </div>
   );
 }
