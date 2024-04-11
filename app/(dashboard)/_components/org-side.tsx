@@ -32,7 +32,7 @@ export const OrgSideBar = () => {
                     </span>
                 </div>
             </Link>
-            <div className="flex flex-col items-center pl-5">
+            <div className="flex flex-col items-center pl-5 w-full">
                 <OrganizationSwitcher 
                     hidePersonal
                     appearance={{
